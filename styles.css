@@ -14,7 +14,7 @@ h1 {
   font-size: 70px;
   -webkit-text-stroke: 0.5px;
   -webkit-text-stroke-color: rgb(0, 0, 0);
-  background-image: url('./banner2.jpg');
+  background-image: url("./images/banner2.jpg");
   padding: 100px;
   box-sizing: border-box;
   margin: 0;
