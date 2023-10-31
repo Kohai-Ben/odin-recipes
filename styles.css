@@ -1,0 +1,52 @@
+* {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+#banner {
+  height: 250px;
+  width: 1000px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 70px;
+  -webkit-text-stroke: 0.5px;
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+  color: rgb(198, 92, 40);
+  font-weight: 950;
+  background-image: url('./cooking-banner-7166200_1280.jpg');
+  padding: 100px;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+#goal {
+  font-size: 22px;
+  font-weight: bold;
+  font-style: italic;
+  margin-top: 30px;
+}
+
+.intro p,
+ul {
+  font-size: 18px;
+}
+
+.photo {
+  height: 200px;
+  padding:15px;
+}
+
+#saltah #saltah-link {
+  align-content: left;
+}
+
+#lasagna {
+ object-position: right;
+}
+
+a, ul {
+  color: rgb(198, 92, 40);
+  font-weight: 900;
+}
+
